@@ -1,0 +1,20 @@
+02.02 9:02 PM
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'm Sorry, Kelly</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>I'm Sorry, Kelly</h1>
+        <p class="message">I never meant to hurt you. You mean so much to me.</p>
+        <button onclick="showMore()">Click for a message</button>
+        <p id="more-message" class="hidden">You are special to me, and I hope you can forgive me.</p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
